@@ -1,1 +1,1 @@
-# Dice-winer
+# Dice-winner
